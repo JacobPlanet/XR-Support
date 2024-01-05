@@ -1,2 +1,0 @@
-# XR Quick Start Manual
-
