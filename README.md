@@ -1,6 +1,8 @@
 ---
-description: Welcome Page
-cover: .gitbook/assets/Banner For support Page Grey.png
+description: >-
+  This Website will provide you with the latest information and support for your
+  Planet PC XR device
+cover: .gitbook/assets/Banner For support Page Grey (1).png
 coverY: 0
 layout:
   cover:
@@ -18,7 +20,7 @@ layout:
     visible: true
 ---
 
-# 🖥 XR Support
+# 🖥 Planet PC XR Support
 
 Welcome to our tech support website!
 

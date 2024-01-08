@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/Banner For support Page Grey.png
-coverY: 41
+cover: .gitbook/assets/Banner For support Page Grey (1).png
+coverY: 0
 layout:
   cover:
     visible: true
